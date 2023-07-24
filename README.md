@@ -1,1 +1,2 @@
 # Railway-Management-System
+This railway management system in Java using JFrame and JDK libraries is  developed to efficiently handle train scheduling, ticket booking, and passenger management, providing a user-friendly interface for easy navigation and data manipulation. With the power of JFrame and JDK libraries, the application can offer seamless functionality and a visually appealing experience to users.
