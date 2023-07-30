@@ -25,5 +25,7 @@ Logging into system will allow user to view user panel.
 Admin can also login in this system
 ![admin login](https://github.com/FazilaRubab/Railway-Management-System/assets/51526391/fc7457fb-71ff-457e-bea0-97d677d4d27c)
 
+
 User can also book any seat, after selecting particular train, its departure time can be selected and rent and some other details will be automatically filled.
+
 ![booking](https://github.com/FazilaRubab/Railway-Management-System/assets/51526391/bf2ad7ac-cf10-482f-a6a1-258f91393f01)
